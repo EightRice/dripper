@@ -57,7 +57,7 @@ The project is expected to span 3-6 months, segmented into Planning and Design (
 ## The Wider Context:
 The goal of this Project is for you to be wearing our product and to do a one-man show but with the sound of a full band, all outputted in real time from your auditory imagination.
 
-###High Level Roadmap:
+### High Level Roadmap:
 
 Version 1 - portable EEG to sine wave. Looks and sounds like a theremin that is being played with no hands.
 Use case scenario is someone outputting a melody from their brain directly into a DAW or PA environment. Can be used in combination with traditional effects.
