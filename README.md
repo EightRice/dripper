@@ -1,6 +1,6 @@
 # Dripper
 Contract Address: 
-###Practice instrument made up of a EEG hooked up to sine wave generator that allows users to control the pitch of a sound using their neueral activity. Prepare musical artists for higher resolution neural interfaces that are able to pick up polyphonic and textured sounds.
+### Practice instrument made up of a EEG hooked up to sine wave generator that allows users to control the pitch of a sound using their neueral activity. Prepare musical artists for higher resolution neural interfaces that are able to pick up polyphonic and textured sounds.
 
 ## Project Objective
 The primary objective of this project is to harness the capabilities of EEG headbands, which are widely recognized for their precision in monitoring brain activity, for an innovative application: real-time audio pitch modulation. The opportunity to adapt these devices for such a use is evident, given their advanced data capture and processing potential. By developing software that can interpret specific brainwave patterns indicative of the user's intent to modify sound pitch, we aim to create an interactive auditory experience that responds instantly to mental commands. This involves not just the technical integration of EEG data streams but also crafting algorithms capable of accurately translating these into audio pitch adjustments, all while ensuring a seamless and intuitive user experience.
